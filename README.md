@@ -1,6 +1,7 @@
 This project is based in the [original one](https://github.com/underbluewaters)
 by [Chad Burt](https://github.com/underbluewaters/secret-santa). The main
-difference between both, is the support for html message.
+difference between both, is the support for html message, and some trivial
+changes like splitting the main file into smaller files.
 
 Intro
 =====
