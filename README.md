@@ -14,9 +14,9 @@ specified.
 Requirements
 ------------
 
-*pytz* and *pyyaml* are required, for installing them:
+**pytz** and **pyyaml** are required, for installing them:
 
-  $ sudo pip install -r pip_requirements.txt
+    $ sudo pip install -r pip_requirements.txt
 
 Usage
 -----
